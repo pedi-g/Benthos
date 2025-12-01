@@ -1,5 +1,5 @@
 # Benthos
-R scripts of an ecological study.
+R scripts of an [ecological study](https://doi.org/10.1016/j.marenvres.2025.107525)
 
 Functioal diversity and species compostion of benthic invertebrates of mangroves of Iran.
 
